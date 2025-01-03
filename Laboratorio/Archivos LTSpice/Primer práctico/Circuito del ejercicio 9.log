@@ -1,0 +1,22 @@
+Circuit: * F:\Primer semestre\TEC\Archivos LTSpice\Primer práctico\Circuito del ejercicio 9.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sat Oct 28 14:19:21 2023
+Total elapsed time: 2.241 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 37473
+traniter = 37457
+tranpoints = 17435
+accept = 12636
+rejected = 4799
+matrix size = 19
+fillins = 4
+solver = Normal
+Avg thread counts: 1.1/1.2/1.2/1.1
+Matrix Compiler1: 1.05 KB object code size  0.3/0.3/[0.2]
+Matrix Compiler2: off  [0.2]/0.3/0.2
+
