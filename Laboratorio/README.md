@@ -1,0 +1,1 @@
+<a href="https://unioviedo-my.sharepoint.com/:b:/g/personal/uo287577_uniovi_es/EWuF0NF3jElKuZbgpE0PN0kBPD9MMUodSW5vOgRWqSEP-Q?e=S05Qna" title="Enlace al pdf del guión de prácticas">Enlace al guión de prácticas</a>
